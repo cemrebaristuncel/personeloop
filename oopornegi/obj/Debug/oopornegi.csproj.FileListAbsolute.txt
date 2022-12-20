@@ -1,0 +1,10 @@
+C:\Users\baris\source\repos\oopornegi\bin\Debug\oopornegi.exe.config
+C:\Users\baris\source\repos\oopornegi\bin\Debug\oopornegi.exe
+C:\Users\baris\source\repos\oopornegi\bin\Debug\oopornegi.pdb
+C:\Users\baris\source\repos\oopornegi\obj\Debug\oopornegi.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\oopornegi\obj\Debug\oopornegi.Form1.resources
+C:\Users\baris\source\repos\oopornegi\obj\Debug\oopornegi.Properties.Resources.resources
+C:\Users\baris\source\repos\oopornegi\obj\Debug\oopornegi.csproj.GenerateResource.cache
+C:\Users\baris\source\repos\oopornegi\obj\Debug\oopornegi.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\oopornegi\obj\Debug\oopornegi.exe
+C:\Users\baris\source\repos\oopornegi\obj\Debug\oopornegi.pdb
